@@ -20,7 +20,7 @@ export const useInstructionModal = () => {
         <View className="p-8 gap-y-4">
           <View>
             <Text className="text-lg">
-              śmieci.go  
+              WasteTo.go  
             </Text>
           </View>
           <View>

@@ -5,7 +5,7 @@ import { Text, View } from "react-native";
 const Index: React.FC = () => {
   return (
     <View className="flex items-center justify-center w-screen h-screen">
-      <Text className="mb-2 text-4xl">Śmieci.go</Text>
+      <Text className="mb-2 text-4xl">WasteTo.go</Text>
       <Text className="mb-4 text-xl">Zbieraj śmieci i uzyskuj punkty!</Text>
       <View className="flex flex-row gap-x-6">
         <Link

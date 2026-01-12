@@ -1,6 +1,6 @@
 module.exports = {
   expo: {
-    name: "smieci.go",
+    name: "WasteTo.go",
     slug: "smiecigo",
     version: "1.0.0",
     orientation: "portrait",

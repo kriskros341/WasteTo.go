@@ -1,4 +1,4 @@
-# Śmieci.go - Gamified Environmental Cleanup Application
+# WasteTo.go - Gamified Environmental Cleanup Application
 
 A mobile application that gamifies environmental cleanup efforts, encouraging community involvement in litter collection and recycling through engaging game mechanics and social features.
 
